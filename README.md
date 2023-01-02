@@ -27,4 +27,7 @@ I'm a software engineer with a passion to build applications from ground up. I f
 <details>
   <summary><h3>Marco's Coding Journey 💻</h3></summary>
   My journey to become a software engineer began in the military. I enlisted in the US Army as a Human Resource Specialist in 2011. I was introduced to many applications and technologies the military used. I quicked learned and adapted to all applications that I was introduced to so I started developing small applications that made my team and organization's life easier. After 11 years of serving in the military I decided to change career paths to become a full time software engineer. I assessed and graduated from the Galvanize MCSP Immersive coding bootcamp. I learned how to be comfident within myself to research and learn new stacks. I planned and developed with teams to achieve various client based projects using agile methodologies. I was challenged to not only work with my peers but to learn new stacks and learn more about myself and how I can apply my skills to the digital world.
-  
+<br/>
+<br/>
+Portfolio: https://devmark.onrender.com
+</details>
