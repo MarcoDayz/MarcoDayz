@@ -1,4 +1,5 @@
-<img width="80px" height="80px" align="center" src='https://user-images.githubusercontent.com/106788930/210185688-d976452d-e7c1-42df-b8d6-9f43188f6384.png'></img>
+<img width="80px" height="80px" align="center" src='https://user-images.githubusercontent.com/106788930/230743274-356ad6f3-f615-4f63-af6e-3585ed00e15f.png'></img>
+
 
 ### Hi there, my name is Marco Diaz! 👋
 
